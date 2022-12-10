@@ -1,6 +1,6 @@
 package basic.code;
 
-public class _2dataTypesIntegers {
+public class _3_DataTypesPrimitivesIntegers {
     public static void main(String[] args){
 
         // DATA TYPES - PRIMITIVES- INTEGERS

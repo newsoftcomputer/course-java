@@ -1,6 +1,6 @@
 package basic.code;
 
-public class _3dataTypesDecimal {
+public class _4_DataTypesPrimitivesDecimal {
     public static void main(String[] args) {
 
         // DATA TYPES - PRIMITIVES- DECIMALS
